@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringReverse", "StringReverse.csproj", "{65CA629D-3E40-4ADA-94B8-D9E76D51190F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringTests", "..\StringTests\StringTests.csproj", "{60C37113-4C5B-434B-9EB3-0AFDA640C7EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65CA629D-3E40-4ADA-94B8-D9E76D51190F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65CA629D-3E40-4ADA-94B8-D9E76D51190F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65CA629D-3E40-4ADA-94B8-D9E76D51190F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65CA629D-3E40-4ADA-94B8-D9E76D51190F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60C37113-4C5B-434B-9EB3-0AFDA640C7EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60C37113-4C5B-434B-9EB3-0AFDA640C7EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60C37113-4C5B-434B-9EB3-0AFDA640C7EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60C37113-4C5B-434B-9EB3-0AFDA640C7EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9270CEA-F693-417A-BF01-6910218CAFF4}
+	EndGlobalSection
+EndGlobal
