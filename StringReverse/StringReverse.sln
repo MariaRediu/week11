@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoatSolution", "..\GoatSolu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoatSolutionTests", "..\GoatSolutionTests\GoatSolutionTests.csproj", "{15CA0814-200D-420A-81A7-879A677464DA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorTests", "..\CalculatorTests\CalculatorTests.csproj", "{C1826B3A-4945-4BB9-B439-0719F02EA481}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{15CA0814-200D-420A-81A7-879A677464DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{15CA0814-200D-420A-81A7-879A677464DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{15CA0814-200D-420A-81A7-879A677464DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1826B3A-4945-4BB9-B439-0719F02EA481}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1826B3A-4945-4BB9-B439-0719F02EA481}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1826B3A-4945-4BB9-B439-0719F02EA481}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1826B3A-4945-4BB9-B439-0719F02EA481}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
